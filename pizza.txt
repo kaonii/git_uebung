@@ -3,8 +3,14 @@ Pizza
 Grundrezept Teig
 
 Zutaten
-______
+_______
 Mehl
 Salz
 Wasser
 Olivenöl?
+
+
+Mögliche Beläge
+______________
+
+Spinat + Schafkäse
